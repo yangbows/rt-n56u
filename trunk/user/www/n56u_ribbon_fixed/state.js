@@ -736,6 +736,7 @@ function show_footer(){
 	footer_code +='  <span>Highcharts by Torstein Hønsi & <a href="http://www.highcharts.com">Highsoft</a></span></br>\n';
 	footer_code +='  <span>Big icons designed by <a href="http://www.freepik.com">Freepik</a></br></span>\n';
 	footer_code +='  <span>Non-Commercial Use Only</span></br>\n';
+	footer_code +='  <span>杨波定制版</span></br>\n';
 	footer_code +='</div>\n';
 
 	$("footer").innerHTML = footer_code;
